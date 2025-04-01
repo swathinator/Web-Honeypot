@@ -1,4 +1,4 @@
-# Web-Honeypot
+# Web Honeypot
 (Antisyphon training lab from Cyber Deception/Active Defense)
 ## Honeypot
 - Navigate to the honeypot directory: ```cd /opt/owa-honeypot/```
