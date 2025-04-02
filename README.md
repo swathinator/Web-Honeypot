@@ -1,5 +1,6 @@
 # Web Honeypot
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#b4e2">Medium</a>
 ## Honeypot
 - Navigate to the honeypot directory: ```cd /opt/owa-honeypot/```
 - Start the honeypot
